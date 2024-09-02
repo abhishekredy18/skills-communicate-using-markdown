@@ -12,3 +12,8 @@ a = 10
 print(a)
 print("hello world")
 ```
+
+# Learning Task List
+- [x] Created Headings
+- [x] Added a video
+- [ ] No video added yet! 
