@@ -5,3 +5,10 @@
 
 # We have an image now!
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# code addition
+```python
+a = 10
+print(a)
+print("hello world")
+```
